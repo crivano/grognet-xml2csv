@@ -6,7 +6,7 @@ Para executar siga o procedimento abaixo:
 
 2. Copie o arquivo Xml2Csv.java para o diretório onde estão os arquivos XML
 
-3. Execute: 
+3. Abra o Prompt de Comando, vá até o diretório e execute: 
 ```
 javac Xml2Csv.java
 ```
